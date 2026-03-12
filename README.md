@@ -88,5 +88,6 @@ This dashboard demonstrates how restaurant businesses can use data analytics to 
 ## Author
 
 **Amit Roy**
+
 Data Analytics Enthusiast | SQL | Power BI | Data Visualization
 
