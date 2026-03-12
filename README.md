@@ -1,5 +1,12 @@
 # Roy's Kitchen – Zomato Sales Performance Dashboard
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Data Analytics](https://img.shields.io/badge/Field-Data%20Analytics-green)
+![GitHub](https://img.shields.io/badge/Portfolio-GitHub-black)
+![Power BI Dashboard](https://img.shields.io/badge/Project-Power%20BI%20Dashboard-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## Project Overview
 
 This project presents a Power BI dashboard analyzing Zomato sales performance for Roy's Kitchen.
