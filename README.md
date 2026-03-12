@@ -61,14 +61,14 @@ The Power BI dashboard includes:
 
 ---
 
-## Files Included in This Repository
+## Files in this Repository
 
-| File                              | Description                 |
-| --------------------------------- | --------------------------- |
-| roys_kitchen_sales_dashboard.pbix | Power BI dashboard file     |
-| roys_kitchen_dashboard_data.csv   | Dataset used for analysis   |
-| dashboard.png                     | Screenshot of the dashboard |
-| README.md                         | Project documentation       |
+| File Name | Description |
+|-----------|-------------|
+| roys_kitchen_sales_dashboard.pbix | Power BI dashboard file |
+| roys_kitchen_dashboard_data.csv | Dataset used for analysis |
+| dashboard.png | Screenshot of the dashboard |
+| README.md | Project documentation |
 
 ---
 
